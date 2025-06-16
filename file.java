@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class file {
     static void greet(String name) {
-        System.out.println("Hello, " + name);
+        System.out.println("Hi, " + name);
     }
 
     public static void main(String[] args) {
