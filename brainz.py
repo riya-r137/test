@@ -1,5 +1,5 @@
 # Printing a simple string (text)
-print("Hello, Python!")
+print("Hi, Python!")
 
 # Printing a number
 print(123)
